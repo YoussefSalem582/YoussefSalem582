@@ -1,0 +1,9 @@
+# Exclude Jupyter Notebooks from language stats
+#*.ipynb linguist-detectable=false
+#*.ipynb linguist-vendored
+
+# Emphasize Dart files
+*.dart linguist-language=Dart
+
+# Optional: You can add other overrides if needed
+# lib/*.js linguist-vendored  # Example to exclude some JS files
