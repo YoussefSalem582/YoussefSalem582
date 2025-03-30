@@ -90,9 +90,9 @@
   <a href="https://www.linkedin.com/in/youssef-hassan-8529372b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@YoussefSalemHassan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:youssef.salem.hassan582@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/YoussefSalem582?tab=followers">
-    <img src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub"/>
-  </a>
+  <a href="https://github.com/YoussefSalem582">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub" />
+</a>
 </p>
 
 ## 💻 Flutter Resources I Recommend
