@@ -87,6 +87,9 @@
 ## 🌐 Connect with me
 
 <p align="center">
+  <a href="https://v0-youssef-salem-hassan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+</a>
   <a href="https://www.linkedin.com/in/youssef-hassan-8529372b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@YoussefSalemHassan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:youssef.salem.hassan582@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
