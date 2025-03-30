@@ -4,12 +4,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YoussefSalem582&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefSalem582" />
-  <a href="https://github.com/YoussefSalem582?tab=followers">
-    <img src="https://img.shields.io/github/followers/YoussefSalem582?label=Followers&style=social" alt="GitHub followers" />
-  </a>
   <a href="https://github.com/YoussefSalem582">
-    <img src="https://img.shields.io/github/follow/YoussefSalem582?label=Follow&style=social" alt="Follow on GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
 </p>
 
 ## 💫 About Me
@@ -37,7 +34,6 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC Pattern" />
   <img src="https://img.shields.io/badge/Provider-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
-  <img src="https://img.shields.io/badge/GetX-13B9FD?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
 </p>
 
 ### Flutter Backend & Integration
@@ -51,10 +47,8 @@
 
 ### Flutter UI & Design
 <p align="left">
-  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design" />
   <img src="https://img.shields.io/badge/Cupertino-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Cupertino" />
   <img src="https://img.shields.io/badge/Custom_Widgets-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Custom Widgets" />
-  <img src="https://img.shields.io/badge/Animations-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Animations" />
   <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Responsive UI" />
 </p>
 
@@ -64,28 +58,26 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="CI/CD" />
 </p>
 
 ## 📱 Featured Flutter Projects
 
 <p align="center">
-  <a href="https://github.com/YoussefSalem582/Project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefSalem582&repo=Project1&theme=tokyonight" />
+  <a href="https://github.com/YoussefSalem582/Music-Player-App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefSalem582&repo=Music-Player-App&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YoussefSalem582/Project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefSalem582&repo=Project2&theme=tokyonight" />
+  <a href="https://github.com/YoussefSalem582/ChargeHub-App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefSalem582&repo=ChargeHub-App&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YoussefSalem582/chat-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefSalem582&repo=chat-app&theme=tokyonight" />
   </a>
 </p>
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefSalem582&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSalem582&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSalem582&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 <p align="center">
