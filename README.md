@@ -13,7 +13,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-youssefsalem.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://youssefsalem.dev)
 [![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.salem.hassan582@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hassan-8529372b7/)
-[![GitHub](https://img.shields.io/badge/GitHub-YoussefSalem582-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefSalem582)
 
 </div>
 
