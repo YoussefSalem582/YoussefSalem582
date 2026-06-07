@@ -20,12 +20,12 @@
 
 ## About Me
 
-Software Engineer and Computer Science graduate from Nile University, focused on building clean, maintainable, and user-friendly cross-platform applications.
+Software Engineer focused on building clean, maintainable, and user-friendly cross-platform applications.
 
 - Flutter Mobile Developer at **Technology 92**
 - Experienced in **Flutter, Dart, REST APIs, Firebase, Clean Architecture, and BLoC**
 - Build bilingual Arabic/English apps with **RTL/LTR support**
-- Also work with **Next.js, React, TypeScript, and Tailwind CSS**
+- Also work with **PHP, Laravel, Next.js, React, TypeScript, and Tailwind CSS**
 
 ---
 
