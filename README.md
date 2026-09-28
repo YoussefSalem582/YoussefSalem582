@@ -19,20 +19,29 @@
 ---
 
 ## About Me
+I turn business needs into live products, from requirements to mobile apps, web platforms, backend APIs, payments and launch.
 
-Software Engineer focused on building clean, maintainable, and user-friendly cross-platform applications.
-
-- Flutter Mobile Developer at **Technology 92**
-- Experienced in **Flutter, Dart, REST APIs, Firebase, Clean Architecture, and BLoC**
-- Build bilingual Arabic/English apps with **RTL/LTR support**
-- Also work with **PHP, Laravel, Next.js, React, TypeScript, and Tailwind CSS**
+* Software Engineer at Technology 92 in Riyadh. I built and launched the Tech 92 workforce app on the App Store and Google Play in 10 weeks. It has shipped 13 updates in 4 months, serves ~100 monthly users in 4 countries, and is 100% crash-free.
+* Freelance mobile & web developer for business owners in Saudi Arabia and the Gulf (5.0/5 on Mostaql).
+* Build each feature end to end, from the Flutter screen to the Laravel API behind it, in Arabic and English with full RTL.
+* BSc Computer Science, Nile University (2026). My graduation project, EmoSense, was graded A+.
 
 ---
 
 ## Tech Stack
 
 **Mobile:** Flutter, Dart, Android, iOS  
-**Architecture:** Clean Architecture, BLoC, Cubit, MVVM, SOLID  
-**Backend & APIs:** REST APIs, Dio, JWT, Firebase, Firestore, FCM  
+**Architecture:** Clean Architecture, BLoC, Cubit, SOLID, offline-first  
+**Web:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend & APIs:** Laravel (PHP), REST APIs, PostgreSQL, Firebase, FCM, WebSockets  
+**Payments:** Paymob, PayTabs  
 **Storage:** Hive, SharedPreferences, Secure Storage  
-**Tools:** Git, GitHub, Postman, GitHub Actions, Sentry, Vercel
+**Tools:** Git, GitHub Actions, Codemagic, Sentry, Postman, Vercel
+
+---
+
+## Writing
+
+- [Shipping a workforce app to both stores in 10 weeks](https://youssefsalem.dev/en/articles/shipping-tech-92-in-10-weeks)
+- [Leading a 5-person team to 53 screens in 24 days](https://youssefsalem.dev/en/articles/osta-53-screens-in-24-days)
+- [More articles](https://youssefsalem.dev/en/articles)
