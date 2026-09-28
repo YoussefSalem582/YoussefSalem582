@@ -10,9 +10,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-youssefsalem.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://youssefsalem.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-youssefsalem.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://youssefsalem.dev/youssef-salem-hassan)
 [![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.salem.hassan582@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hassan-8529372b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-salem-hassan/)
 
 </div>
 
@@ -21,10 +21,10 @@
 ## About Me
 I turn business needs into live products, from requirements to mobile apps, web platforms, backend APIs, payments and launch.
 
-* Software Engineer at Technology 92 in Riyadh. I built and launched the Tech 92 workforce app on the App Store and Google Play in 10 weeks. It has shipped 13 updates in 4 months, serves ~100 monthly users in 4 countries, and is 100% crash-free.
-* Freelance mobile & web developer for business owners in Saudi Arabia and the Gulf (5.0/5 on Mostaql).
-* Build each feature end to end, from the Flutter screen to the Laravel API behind it, in Arabic and English with full RTL.
-* BSc Computer Science, Nile University (2026). My graduation project, EmoSense, was graded A+.
+* **Software Engineer at [Technology 92](https://youssefsalem.dev/en/projects/technology-92)** in Riyadh. I built and launched the Tech 92 workforce app on the App Store and Google Play in 10 weeks. It has shipped 13 updates in 4 months, serves ~100 monthly users in 4 countries, and is 100% crash-free.
+* **Freelance mobile & web developer** for business owners in Saudi Arabia and the Gulf (5.0/5 on Mostaql).
+* Build each feature **end to end**, from the Flutter screen to the Laravel API behind it, in **Arabic and English with full RTL**.
+* BSc Computer Science, Nile University (2026). My graduation project, EmoSense, was graded **A+**.
 
 ---
 
